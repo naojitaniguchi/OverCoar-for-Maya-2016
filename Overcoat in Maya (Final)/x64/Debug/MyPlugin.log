@@ -1,0 +1,29 @@
+﻿  HairToolContext.cpp
+HairToolContext.cpp(194): warning C4474: 'sprintf' : too many arguments passed for format string
+  HairToolContext.cpp(194): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+HairToolContext.cpp(194): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10586.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+HairToolContext.cpp(197): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10586.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+HairToolContext.cpp(198): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10586.0\ucrt\string.h(90): note: see declaration of 'strcat'
+HairToolContext.cpp(205): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10586.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+HairToolContext.cpp(208): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10586.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+HairToolContext.cpp(212): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10586.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+HairToolContext.cpp(216): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10586.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+HairToolContext.cpp(220): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10586.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+HairToolContext.cpp(224): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10586.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+HairToolContext.cpp(228): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10586.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+HairToolContext.cpp(232): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10586.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1189,5): warning MSB8012: TargetPath(D:\work\dwango\CIS-660-Overcoat-in-Maya-master\Overcoat in Maya (Final)\x64\Debug\OverCoat.mll) does not match the Linker's OutputFile property value (D:\work\dwango\CIS-660-Overcoat-in-Maya-master\Overcoat in Maya (Final)\OverCoatd.mll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1191,5): warning MSB8012: TargetName(OverCoat) does not match the Linker's OutputFile property value (OverCoatd). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     Creating library .\Debug/MyPlugin.lib and object .\Debug/MyPlugin.exp
+  MyPlugin.vcxproj -> D:\work\dwango\CIS-660-Overcoat-in-Maya-master\Overcoat in Maya (Final)\x64\Debug\OverCoat.mll
